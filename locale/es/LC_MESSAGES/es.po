@@ -1,0 +1,23 @@
+# Spanish/Spain translation of GNOME Glossary.
+# Copyright (C) 2001-2002 GNOME Foundation, Inc.
+# Ismael Olea <ismael@olea.org>, 2001.
+# Francisco Javier F. Serrador <serrador@tecknolabs.com>, 2005
+msgid ""
+msgstr ""
+"Project-Id-Version: memoria 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2005-04-30 23:11+0200\n"
+"Last-Translator: Francisco Javier F. Serrador <serrador@tecknolabs.com>\n"
+"Language-Team: Spanish <traductores@es.gnome.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Icono"
+
+msgid "Text"
+msgstr "Texto"
+

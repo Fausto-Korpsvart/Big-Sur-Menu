@@ -1,0 +1,26 @@
+# Danish translation of GNOME glossary.
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# Keld Simonsen <keld@dkuug.dk>, 2001-2002.
+# Kjartan Maraas <kmaraas@gnome.org>, 2001.
+#
+# Reviewed: 2001-12-23 Ole Laursen <olau@hardworking.dk>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glossary 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2002-01-09 23:43+0100\n"
+"Last-Translator: Keld Simonsen <keld@dkuug.dk>\n"
+"Language-Team: Dansk <dansk@klid.dk>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Ikon"
+
+msgid "Text"
+msgstr "Tekst"
+

@@ -1,0 +1,24 @@
+# Esperanto translation of gnome-glossary
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Joël BRICH <joel.brich@laposte.net>, 2003.
+# Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-glossary\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2010-06-09 20:37+0200\n"
+"Last-Translator: Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>\n"
+"Language-Team: Esperanto <ubuntu-l10n-eo@lists.launchpad.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Piktogramo"
+
+msgid "Text"
+msgstr "Teksto"
+

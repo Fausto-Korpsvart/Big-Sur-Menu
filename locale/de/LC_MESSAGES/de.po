@@ -1,0 +1,24 @@
+# German gnome-glossary.
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# Various authors <gnome-de@gnome.org>, 2001.
+# Hendrik Richter <hendrikr@gnome.org>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-glossary HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2006-06-15 16:59+0200\n"
+"Last-Translator: Hendrik Richter <hendrikr@gnome.org>\n"
+"Language-Team: German <gnome-de@gnome.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Symbol"
+
+msgid "Text"
+msgstr "Text"
+

@@ -1,0 +1,24 @@
+# Gnome Glossary of frequently occuring words/terms.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# First Author Jitendra Shah <jitendras@vsnl.com>, 2003.
+# Second Author Yashaswini Godse <ymgodse@vsnl.com>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GnomeGlossary 2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2005-07-07 02:25+0530\n"
+"Last-Translator: Swapnil Hajare <dreamil1000a@yahoo.com>\n"
+"Language-Team: Marathi <marathiopensource@yahoogroups.com>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "चिन्ह, प्रतिक"
+
+msgid "Text"
+msgstr "शब्दसंच, मजकूर"
+

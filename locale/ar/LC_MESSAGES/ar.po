@@ -1,0 +1,25 @@
+# translation of ar.po to Arabic
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Isam Bayazidi <bayazidi@arabeyes.org>, 2002.
+# Sayed Jaffer Al-Mosawi <mosawi@arabeyes.org>, 2002
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2006-11-17 23:53+0100\n"
+"Last-Translator: Djihed Afifi <djihed@gmail.com>\n"
+"Language-Team: Arabic <contact@arabeyes.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0beta1\n"
+
+msgid "Icon"
+msgstr "أيقونة"
+
+msgid "Text"
+msgstr "نص"
+

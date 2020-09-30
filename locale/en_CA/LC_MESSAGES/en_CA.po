@@ -1,0 +1,23 @@
+# English/Canada translation of gnome-i18n glossary.
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Adam Weinberger <adamw@gnome.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-i18n glossary\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2004-08-03 17:03-0400\n"
+"Last-Translator: Adam Weinberger <adamw@gnome.org>\n"
+"Language-Team: English/Canada <adamw@FreeBSD.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Icon"
+
+msgid "Text"
+msgstr "Text"
+

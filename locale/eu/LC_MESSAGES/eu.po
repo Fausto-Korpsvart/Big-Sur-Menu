@@ -1,0 +1,26 @@
+# translation of glossary-gnome-118n.po to Basque
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# Hizkuntza Politikarako Sailburuordetza <hizkpol@ej-gv.es>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glossary-gnome-118n\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2005-03-11 19:03+0100\n"
+"Last-Translator: Hizkuntza Politikarako Sailburuordetza <hizkpol@ej-gv.es>\n"
+"Language-Team: Basque <itzulpena@euskalgnu.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
+
+msgid "Icon"
+msgstr "Ikono"
+
+msgid "Text"
+msgstr "Testu"
+

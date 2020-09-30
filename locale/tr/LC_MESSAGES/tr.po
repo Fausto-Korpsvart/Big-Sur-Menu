@@ -1,0 +1,23 @@
+# translation of Gnome Glossary to Turkish
+# GNOME Turk <gnome-turk@gnome.org>, 2004.
+# Baris Cicek <baris@teamforce.name.tr>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tr\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2004-04-10 12:47+0300\n"
+"Last-Translator: Baris Cicek <baris@teamforce.name.tr>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Simge"
+
+msgid "Text"
+msgstr "Metin"
+

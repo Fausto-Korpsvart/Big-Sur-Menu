@@ -1,0 +1,26 @@
+# Swedish glossary.
+# Copyright (C) 2001, 2002, 2004, 2006 Free Software Foundation, Inc.
+# Christian Rose <menthos@menthos.com>, 2001, 2002, 2004.
+# Daniel Nylander <po@danielnylander.se>, 2006.
+#
+# $Id$
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glossary\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2006-04-16 21:06+0100\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Ikon"
+
+msgid "Text"
+msgstr "Text"
+

@@ -1,0 +1,31 @@
+# #########################################################################
+# Ini bukan istilah rasmi yang diiktiraf oleh DBP.
+# Ini hanyalah piawai istilah sementara yang digunakan untuk lokalisasi
+# Perisian-perisian  Bahasa Melayu. 
+# kalau nak tunggu DBP, sampai GNOME 10.0 pun belum tentu ada Istilah UI.
+# Sila baca, perhati dan komen jika perlu     
+# terdapat banyak lagi istilah yang tidak pasti oleh itu, 
+# sila cadangkan apa yang patut ditukar.
+# #############################################
+# Copyright (C) 2001-2003 Free Software Foundation, Inc.
+# Hasbullah Bin Pit <sebol@ikhlas.com>, 2001-2003.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Glosari GNOME\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2003-11-16 19:53+0800\n"
+"Last-Translator: Hasbullah Bin Pit <sebol@ikhlas.com>\n"
+"Language-Team: Bahasa Melayu <gabai-penyumbang@lists.sourceforge.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Ikon"
+
+msgid "Text"
+msgstr "Teks"
+

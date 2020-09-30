@@ -1,0 +1,25 @@
+# GnomeGlossary fr.po.
+# Copyright (C) 2001-2002 Free Software Foundation, Inc.
+# Christophe Merlet (RedFox) <christophe@merlet.net>, 2001-2002.
+# Jérémy Simon <jsimon13@yahoo.fr>, 2001.
+# Xavier Delatour <xdelatour@yahoo.fr>, 2001.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GnomeGlossary\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2002-05-22 23:38+0200\n"
+"Last-Translator: Christophe Merlet (RedFox) <christophe@merlet.net>\n"
+"Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Text"
+msgstr "Texte"
+

@@ -1,0 +1,24 @@
+# translation of gnome-glossary.HEAD.po to Macedonian
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# Arangel Angov <ufo@linux.net.mk>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-glossary.HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2005-12-02 15:22+0100\n"
+"Last-Translator: Arangel Angov <ufo@linux.net.mk>\n"
+"Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
+"Language: mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+
+msgid "Icon"
+msgstr "Икона"
+
+msgid "Text"
+msgstr "Текст"
+

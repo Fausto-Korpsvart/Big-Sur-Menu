@@ -1,0 +1,30 @@
+# Greek translation for the glossary terms.
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# Simos Xenitellis <simos@hellug.gr>, 2001.
+# Dimitris Kamenopoulos <el97146@mail.ntua.gr>, 2001.
+# Nikos Charonitakis <frolix68@yahoo.gr>, 2003.
+#
+# 4May2001: 511 messages (381 remaining), Initial big translation.
+# 5May2001: 519 message, merged with translation of dimitris.
+# 6Jun2001: 677 translated messages, added translations of dimitris.
+# 24Nov2003: converted to utf-8 by Nikos
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GnomeGlossary.csv 30Apr2001\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2003-11-24 01:00-0200\n"
+"Last-Translator: Nikos Charonitakis <charosn@her.fothnet.gr>\n"
+"Language-Team: Greek <nls@tux.hellug.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+msgid "Text"
+msgstr "Κείμενο"
+

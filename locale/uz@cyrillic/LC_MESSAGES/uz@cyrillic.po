@@ -1,0 +1,23 @@
+# translation of uz.po to uzbek
+# Nurali Abdurahmonov <mavnur@gmail.com>, 2008.
+# Copyright (C) 2008 Free Software Foundation, Inc.
+msgid ""
+msgstr ""
+"Project-Id-Version: uz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2008-03-05 12:27+0500\n"
+"Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
+"Language-Team: uzbek\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "Icon"
+msgstr "Нишонча"
+
+msgid "Text"
+msgstr "Матн"
+

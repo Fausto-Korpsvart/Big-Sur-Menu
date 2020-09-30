@@ -1,0 +1,23 @@
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Amanpreet Singh Alam <amanlinux@netscape.net>, 2004.
+# , fuzzy
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-glossary VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2004-06-14 22:30+0530\n"
+"Last-Translator: Amanpreet Singh Alam <amanlinux@netscape.net>\n"
+"Language-Team: Punjabi <punlinux-i18n@lists.sourceforge.>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "ਆਈਕਾਨ"
+
+msgid "Text"
+msgstr "ਪਾਠ"
+

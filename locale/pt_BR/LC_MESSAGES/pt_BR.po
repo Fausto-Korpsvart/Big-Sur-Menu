@@ -1,0 +1,26 @@
+# gnome-glossary: translation to Brazilian Portuguese (pt_BR)
+# Copyright (C) 2001,2003,2004 Free Software Foundation, Inc.
+# Alexandre Folle de Menezes <afmenez@terra.com.br>, 2003.
+# Gustavo Maciel Dias Vieira <gustavo@sagui.org>, 2004.
+# based on the GNOME 1.4 translation to Portuguese (pt) by
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2001
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-11 08:42+0000\n"
+"PO-Revision-Date: 2004-08-27 09:11-0400\n"
+"Last-Translator: Gustavo Maciel Dias Vieira <gustavo@sagui.org>\n"
+"Language-Team: Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Icon"
+msgstr "Ícone"
+
+msgid "Text"
+msgstr "Texto"
+
