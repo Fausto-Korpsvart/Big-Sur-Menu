@@ -1,6 +1,6 @@
 # Big Sur Menu for Gnome Desktop
 
-### This is a fork of __[panel-indicators](https://github.com/lvitals/panel-indicators "lvitals Repository")__ y __[panel-indicator](https://github.com/lenuswalker/panel-indicators "lenuswalker Repository")__ I have modified adding some functions and decorations to make the menu more similar to the macOS menu in its Big Sur version and thus bring it to Gnome as an extension in the Shell.
+### This is a fork of __[panel-indicators](https://github.com/lvitals/panel-indicators "lvitals Repository")__ and __[panel-indicator](https://github.com/lenuswalker/panel-indicators "lenuswalker Repository")__ I have modified adding some functions and decorations to make the menu more similar to the macOS menu in its Big Sur version and thus bring it to Gnome as an extension in the Shell.
 
 
 ## INSTALLATION
