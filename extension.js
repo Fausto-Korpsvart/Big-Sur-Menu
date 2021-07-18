@@ -50,13 +50,13 @@ function _logOut() {
 
 
 // function _hover() {
-// 	button.actor.remove_actor(icon)
+// 	button.remove_actor(icon)
 
 // 	const icon_hover = new St.Icon({
 // 		style_class: 'menu-button-hover'
 // 	})
 	
-// 	button.actor.add_actor(icon_hover)
+// 	button.add_actor(icon_hover)
 // }
 
 
@@ -71,7 +71,7 @@ const MenuButton = new Lang.Class({
         this.icon = new St.Icon({
             style_class: 'menu-button'
         })
-        this.actor.add_actor(this.icon)
+        this.add_actor(this.icon)
 
         // Menu
 	this.item1 = new PopupMenu.PopupMenuItem('About This Distro')
@@ -137,13 +137,13 @@ function enable() {
 	Main.panel.addToStatusArea('menuButton', indicator, 0, 'left')
 
 	// hide
-	Main.panel.statusArea['menuButton'].actor.visible = false
+	Main.panel.statusArea['menuButton'].visible = false
 
 	// change icon
 	//Main.panel.statusArea['menuButton'].icon.icon_name = "appointment-soon-symbolic"
 
 	// show
-	Main.panel.statusArea['menuButton'].actor.visible = true
+	Main.panel.statusArea['menuButton'].visible = true
 }
  
 function disable() {
